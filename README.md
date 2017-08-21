@@ -3,6 +3,9 @@
 An ui implementation for meta reader library 
 [meta-reader](https://github.com/krishna2nd/meta-reader) [![NPM Version][npm-image]][npm-url]
 
+### Pre req
+  `node: 8.4.0`
+
 ### View Demo
   * clone git repository
   * Run `npm install`
